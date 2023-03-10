@@ -1,4 +1,5 @@
 PROJECT PERSPECTIVE
+
 A project perspective for a blog website development project involves considering the project's goals,
 objectives, timeline, and resources required for successful completion. From a project perspective, it is
 important to establish a clear understanding of the project's scope and requirements, including any specific
